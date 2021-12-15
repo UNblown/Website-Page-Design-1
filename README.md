@@ -51,7 +51,8 @@ For "om oss" inholdet så skrev jeg koden som:
     <p>
         SD Design er et Røyken basert markedsforingsbyrå som har holdt på i over 20 år. 
         Vi er 18 smarte og sosiale medarbeidere som <br>
-        jobber tett sammen med både store og små annonsorer på tvers av design, web, SEM, SEO og sosiale medier. <br> 
+        jobber tett sammen med både store og små annonsorer på tvers av design, web, SEM, SEO og sosiale medier. 
+        <br> 
         Vi hjelpe
         bedrifter med digital synlighetl
     </p>
